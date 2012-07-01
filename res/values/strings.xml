@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrumVoter</string>
+    <string name="vote">Vote</string>
+    <string name="reveal">Reveal</string>
+    <string name="score_spinner_label">Pick a Score:</string>
+    <string-array name="scores_array">
+        <item>1</item>
+        <item>3</item>
+        <item>8</item>
+        <item>20</item>
+        <item>40</item>
+    </string-array>
+    
+</resources>
